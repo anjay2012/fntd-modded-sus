@@ -12987,7 +12987,7 @@
     "Battery Acid Man": {
         "Type": "AOE Burn",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Apex",
+        "Rarity": "Nightmare",
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 2,
@@ -13007,8 +13007,6 @@
                 "SlowTime": 1,
                 "Burn": 100000,
                 "BurnTime": 1,
-                "Bleed": 0.5,
-                "BleedTime": 2.5
             },
             {
                 "Price": 26000,
@@ -13019,8 +13017,6 @@
                 "SlowTime": 1,
                 "Burn": 150000,
                 "BurnTime": 1,
-                "Bleed": 0.5,
-                "BleedTime": 2.5
             },
             {
                 "Price": 30000,
@@ -13031,8 +13027,6 @@
                 "SlowTime": 1,
                 "Burn": 200000,
                 "BurnTime": 1,
-                "Bleed": 0.5,
-                "BleedTime": 2.5
             },
             {
                 "Price": 40000,
@@ -13043,8 +13037,6 @@
                 "SlowTime": 1,
                 "Burn": 250000,
                 "BurnTime": 1,
-                "Bleed": 0.5,
-                "BleedTime": 2.5
             }
         ]
     },
