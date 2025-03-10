@@ -15,25 +15,25 @@
             {
                 "Price": 0,
                 "Range": 10,   
-                "Damage": 40000,
+                "Damage": 40,
                 "Cooldown": 1
             },
             {
                 "Price": 500,
                 "Range": 12,
-                "Damage": 50000,
+                "Damage": 50,
                 "Cooldown": 1
             },
             {
                 "Price": 750,
                 "Range": 14,
-                "Damage": 60000,
+                "Damage": 60,
                 "Cooldown": 1
             },
             {
                 "Price": 1250,
                 "Range": 15,
-                "Damage": 60000,
+                "Damage": 60,
                 "Cooldown": 0.75
             }
         ]
@@ -11408,6 +11408,29 @@
             }
         ]
     },
+
+    "Burntrap": {
+        "Type": "Single",
+        "Image": "rbxassetid://120446334712341",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+              "Cooldown": 1
+            }
+        ]
+    },
+
     "Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
@@ -12961,7 +12984,7 @@
             }
         ]
     },
-     "Battery Acid Man": {
+    "Battery Acid Man": {
         "Type": "AOE Burn",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Apex",
