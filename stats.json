@@ -12991,7 +12991,7 @@
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Battery Acid", "Description": "Attacks slow enemies by 75% and deals double damage in Burn "},
+        "Passive": {"Name": "Battery Acid", "Description": "Attacks slow enemies by 75% and deals double damage in Burn."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
