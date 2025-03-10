@@ -13047,5 +13047,53 @@
                 "BleedTime": 2.5
             }
         ]
+    },
+    "Pin": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://116102033612230",
+        "Rarity": "Apex",
+        "PlacePrice": 16000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "BFDI", "Description": "Attacks slow enemies by 50%. 2763."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 2763,
+                "Range": 27.63,
+                "Damage": 2763,
+                "Cooldown": 0.2763,
+                "Slow": 0.5,
+                "SlowTime": 0.3
+            },
+             {
+                "Price": 27630,
+                "Range": 276.3,
+                "Damage": 27630,
+                "Cooldown": 0.02763,
+                "Slow": 0.5,
+                "SlowTime": 0.3
+            },
+             {
+                "Price": 276300,
+                "Range": 2763,
+                "Damage": 276300,
+                "Cooldown": 0.002763,
+                "Slow": 0.5,
+                "SlowTime": 0.2
+            },
+             {
+                "Price": 2763000,
+                "Range": 27630,
+                "Damage": 2763000,
+                "Cooldown": 0.0002763,
+                "Slow": 0.5,
+                "SlowTime": 0.2
+            },
+        ]
     }
 }
