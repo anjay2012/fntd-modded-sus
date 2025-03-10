@@ -13054,7 +13054,7 @@
         "Rarity": "Apex",
         "PlacePrice": 27630,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "BFDI", "Description": "Attacks slow enemies by 50%. 2763."},
         "hitboxOffset": {
             "X": 0,
@@ -13093,6 +13093,54 @@
                 "Cooldown": 0.0002763,
                 "Slow": 0.5,
                 "SlowTime": 0.2
+            }
+        ]
+    },
+    "Diet Bsoda": {
+        "Type": "Cone AOE Burn + Stun",
+        "Image": "rbxassetid://8732340581",
+        "Rarity": "Apex",
+        "PlacePrice": 33500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Discord", "Description": "Based off Bsoda in the discord."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 66000,
+                "Range": 26,
+                "Damage": 75300,
+                "Cooldown": 1.3,
+                "Slow": 0,
+                "SlowTime": 0.2,
+            },
+             {
+                "Price": 127000,
+                "Range": 30,
+                "Damage": 98500,
+                "Cooldown": 1.2,
+                "Slow": 0,
+                "SlowTime": 0.4
+            },
+             {
+                "Price": 194000,
+                "Range": 34,
+                "Damage": 123000,
+                "Cooldown": 1.1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+             {
+                "Price": 295000,
+                "Range": 38,
+                "Damage": 152635,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.6
             }
         ]
     }
