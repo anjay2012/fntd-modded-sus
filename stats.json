@@ -13096,6 +13096,66 @@
             }
         ]
     },
+    "Agonized Scott": {
+        "Type": "INSANITY",
+        "Image": "rbxassetid://116102033612230",
+        "Rarity": "ERROR",
+        "PlacePrice": 666666,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "&^$*£(*$", "Description": "1932643329239466321"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 20000,
+                "Range": 37,
+                "Damage": 66666,
+                "Cooldown": 1.4,
+                "Slow": 0.34,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5,
+                "NukeLimit": 10
+            },
+            {
+                "Price": 33333,
+                "Range": 37,
+                "Damage": 99999,
+                "Cooldown": 1.2666,
+                "Slow": 0.34,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5,
+                "NukeLimit": 9
+            },
+            {
+                "Price": 66666,
+                "Range": 42.666,
+                "Damage": 122222,
+                "Cooldown": 0.666,
+                "Slow": 0.34,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5,
+                "NukeLimit": 8
+            },
+            {
+                "Price": 666666,
+                "Range": 66.6,
+                "Damage": 666666,
+                "Cooldown": 0.333,
+                "Slow": 0.34,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5,
+                "NukeLimit": 6
+            },
+        ]
+    },
     "Diet Bsoda": {
         "Type": "Cone AOE Burn + Stun",
         "Image": "rbxassetid://8732340581",
