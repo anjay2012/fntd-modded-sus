@@ -13126,5 +13126,71 @@
         "SlowTime": 0.6
       }
     ]
-  }
+  },
+ "Agonized Scott": {
+        "Type": "INSANITY",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Apex",
+        "PlacePrice": 66666,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "23522132", "Description": "927164982091774246353443"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 77777,
+                "Range": 35,
+                "Damage": 66666,
+                "Cooldown": 1.4,
+                "Slow": 0.334,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5
+            },
+            {
+                "Price": 88888,
+                "Range": 40,
+                "Damage": 77777,
+                "Cooldown": 1.3,
+                "Slow": 0.334,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5
+            },
+            {
+                "Price": 88888,
+                "Range": 45,
+                "Damage": 88888,
+                "Cooldown": 1.2,
+                "Slow": 0.334,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5
+            },
+            {
+                "Price": 99999,
+                "Range": 50,
+                "Damage": 99999,
+                "Cooldown": 1.1,
+                "Slow": 0.334,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5
+            },
+            {
+                "Price": 666666,
+                "Range": 666,
+                "Damage": 666666,
+                "Cooldown": 0.666,
+                "Slow": 0.334,
+                "SlowTime": 1.5,
+                "Bleed": 0,
+                "BleedTime": 1.5
+            } 
+        ]
+    }
 }
