@@ -12963,7 +12963,7 @@
     },
     "Battery Acid Man": {
         "Type": "AOE Burn",
-        "Image": "rbxassetid://116102033612230",
+        "Image": "rbxassetid://115459331713918",
         "Rarity": "Apex",
         "PlacePrice": 16000,
         "Offset": 0,
@@ -13129,7 +13129,7 @@
   },
  "Agonized Scott": {
         "Type": "INSANITY",
-        "Image": "rbxassetid://116102033612230",
+        "Image": "rbxassetid://115459331713918",
         "Rarity": "Apex",
         "PlacePrice": 66666,
         "Offset": 0,
