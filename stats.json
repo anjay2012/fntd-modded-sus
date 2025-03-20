@@ -12963,7 +12963,7 @@
     },
     "Battery Acid Man": {
         "Type": "AOE Burn",
-        "Image": "rbxassetid://115459331713918",
+        "Image": "http://www.roblox.com/asset/?id=115459331713918",
         "Rarity": "Apex",
         "PlacePrice": 16000,
         "Offset": 0,
@@ -13027,7 +13027,7 @@
     },
     "Pin": {
     "Type": "Pierce",
-    "Image": "rbxassetid://8732340581",
+    "Image": "http://www.roblox.com/asset/?id=8732340581",
     "Rarity": "Apex",
     "PlacePrice": 27630,
     "Offset": 0,
@@ -13078,7 +13078,7 @@
   },
   "Diet Bsoda": {
     "Type": "Cone AOE Burn + Stun",
-    "Image": "rbxassetid://8732340581",
+    "Image": "http://www.roblox.com/asset/?id=8732340581",
     "Rarity": "Apex",
     "PlacePrice": 33500,
     "Offset": 0,
@@ -13129,7 +13129,7 @@
   },
  "Agonized Scott": {
         "Type": "INSANITY",
-        "Image": "rbxassetid://115459331713918",
+        "Image": "http://www.roblox.com/asset/?id=115459331713918",
         "Rarity": "Apex",
         "PlacePrice": 66666,
         "Offset": 0,
